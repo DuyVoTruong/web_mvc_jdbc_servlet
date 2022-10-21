@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/trinhtruong2k1/io/seller/DaoImpl/CategoryDaoImpl.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/DaoImpl/ProductDaoImpl.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/APIAddOrEditProductController.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/CategoryAPIController.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/ProductDeleteController.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/SellerCancelOrderController.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/SellerConfirmOrderController.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/SellerIndexController.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/SellerOrdersViewController.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/SellerProductsAddController.java=UTF-8
+encoding//src/main/java/trinhtruong2k1/io/seller/controller/SellerProductsController.java=UTF-8
+encoding//src/main/java/vn/VietTech/controller/web/LoginUserController.java=UTF-8
+encoding//src/main/java/vn/VietTech/controller/web/SignUpUserController.java=UTF-8
+encoding//src/main/webapp/common/seller/left.jsp=UTF-8
